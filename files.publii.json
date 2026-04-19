@@ -82,27 +82,27 @@
     {
         "path": "/authors/mi-hu/index.html",
         "type": "file",
-        "md5": "c29a37a741d75cc5608ce66ea0da8447"
+        "md5": "9173c64858767cc46b61ac928e3471df"
     },
     {
         "path": "bo-ke-1.html",
         "type": "file",
-        "md5": "decfe6a380d8f60ed38a060717907b57"
+        "md5": "a6ef673b2ae7abb23b146c9b9f323a1a"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "9c7c0c85e01e606f8f8630e758defba5"
+        "md5": "0318c5d1c776ac31de351ff541db1bd5"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "b86eb5c55bccd6c179dab3c89e683610"
+        "md5": "c32ef65aa9ca1d50a7d52bac0cbb0c69"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d01a339fe8a3ec3fddb66c720d2de95c"
+        "md5": "3b30da4e7e86739e31bb40397bbca011"
     },
     {
         "path": "media",
@@ -167,7 +167,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3b2429df36cd7c5b94551f33f9fc5f03"
+        "md5": "f522469a6fed584b18aee892c7c7a184"
     },
     {
         "path": "sitemap.xsl",
