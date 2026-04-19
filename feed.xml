@@ -3,7 +3,7 @@
     <title>个人博客</title>
     <link href="https://GaoZHY270017.github.io/Blog/feed.xml" rel="self" />
     <link href="https://GaoZHY270017.github.io/Blog" />
-    <updated>2026-04-19T10:22:08+08:00</updated>
+    <updated>2026-04-19T10:29:53+08:00</updated>
     <author>
         <name>迷糊</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2026-04-19T09:43:43+08:00</updated>
             <summary>
                 <![CDATA[
-                    博客1内容 2026年4月19日
+                    博客1内容，加图片。 2026年4月19日
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>博客1内容</p>
+                <p>博客1内容，加图片。</p>
 <figure class="post__image"><img loading="lazy"  src="https://GaoZHY270017.github.io/Blog/media/posts/1/P20260319JB-0570.webp" alt="" width="1200" height="800" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/P20260319JB-0570-xs.webp 640w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/P20260319JB-0570-sm.webp 768w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/P20260319JB-0570-md.webp 1024w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/P20260319JB-0570-lg.webp 1366w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/P20260319JB-0570-xl.webp 1600w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/P20260319JB-0570-2xl.webp 1920w"></figure>
 <p> </p>
 <p> </p>
