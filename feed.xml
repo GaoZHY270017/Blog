@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>个人博客</title>
+    <link href="https://GaoZHY270017.github.io/Blog/feed.xml" rel="self" />
+    <link href="https://GaoZHY270017.github.io/Blog" />
+    <updated>2026-04-19T09:43:43+08:00</updated>
+    <author>
+        <name>迷糊</name>
+    </author>
+    <id>https://GaoZHY270017.github.io/Blog</id>
+
+    <entry>
+        <title>博客1</title>
+        <author>
+            <name>迷糊</name>
+        </author>
+        <link href="https://GaoZHY270017.github.io/Blog/bo-ke-1.html"/>
+        <id>https://GaoZHY270017.github.io/Blog/bo-ke-1.html</id>
+
+        <updated>2026-04-19T09:43:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    博客1内容 2026年4月19日
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>博客1内容</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>                                      2026年4月19日</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

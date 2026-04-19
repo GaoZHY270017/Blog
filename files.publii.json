@@ -1,0 +1,132 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "9062295b6aa3b1280d1528a332dc3468"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mi-hu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mi-hu/index.html",
+        "type": "file",
+        "md5": "7d84ed3aa1f7440f93da6d05d49d76a3"
+    },
+    {
+        "path": "bo-ke-1.html",
+        "type": "file",
+        "md5": "295b7159ef365567b3dae249f47e6e0a"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "7900e570bb4938b5c9095972cae3a73a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "e87d0b671637ce0a2e19d827c07e48e1"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "fbda81101cf1a424872b93cf21e67c01"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "8ed325ba36bf16c1bcdde888b691235a"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "d45ef95d3b93b2fa2b24191e9e067da9"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "d837b4bd6a903dd8987674e32cf21cd0"
+    }
+]
