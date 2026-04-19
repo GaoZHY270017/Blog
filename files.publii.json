@@ -87,22 +87,77 @@
     {
         "path": "bo-ke-1.html",
         "type": "file",
-        "md5": "295b7159ef365567b3dae249f47e6e0a"
+        "md5": "35128d8eb8e02008ed2952e18f67dafa"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "7900e570bb4938b5c9095972cae3a73a"
+        "md5": "de74162fe710a5788ad2d157d7add0a3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e87d0b671637ce0a2e19d827c07e48e1"
+        "md5": "17da167d5b069209cd0913ebd71d20e7"
     },
     {
         "path": "index.html",
         "type": "file",
         "md5": "fbda81101cf1a424872b93cf21e67c01"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/P20260319JB-0570.webp",
+        "type": "file",
+        "md5": "90129bda73cfde30407ad8e02670015a"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/P20260319JB-0570-2xl.webp",
+        "type": "file",
+        "md5": "321d1fc3d86af55a4179dabf518266d3"
+    },
+    {
+        "path": "/media/posts/1/responsive/P20260319JB-0570-lg.webp",
+        "type": "file",
+        "md5": "321d1fc3d86af55a4179dabf518266d3"
+    },
+    {
+        "path": "/media/posts/1/responsive/P20260319JB-0570-md.webp",
+        "type": "file",
+        "md5": "ebd7492ca4ef753fdcca8ae7f08031aa"
+    },
+    {
+        "path": "/media/posts/1/responsive/P20260319JB-0570-sm.webp",
+        "type": "file",
+        "md5": "b993b7fb6d78f5db5302958dbeac7510"
+    },
+    {
+        "path": "/media/posts/1/responsive/P20260319JB-0570-xl.webp",
+        "type": "file",
+        "md5": "321d1fc3d86af55a4179dabf518266d3"
+    },
+    {
+        "path": "/media/posts/1/responsive/P20260319JB-0570-xs.webp",
+        "type": "file",
+        "md5": "6d056c09fb8ea97ea372368bbb97d0d3"
     },
     {
         "path": "robots.txt",
@@ -112,7 +167,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d45ef95d3b93b2fa2b24191e9e067da9"
+        "md5": "7864d303cb7242e8715609023dc199c7"
     },
     {
         "path": "sitemap.xsl",
