@@ -87,17 +87,17 @@
     {
         "path": "bo-ke-1.html",
         "type": "file",
-        "md5": "544a53a0d789e83754b31a22c602384c"
+        "md5": "61f593cf1b413832733086ea1d6eb65e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ce8139621d3c28fe53f1bb6525968beb"
+        "md5": "d907dc94416547beac6ea3d1f54cf1e8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0c46bc8312bec92aa2514162597827ce"
+        "md5": "37ccfb645c528bdaa920eafb67fe2e8e"
     },
     {
         "path": "index.html",
@@ -167,7 +167,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ce86129737b78111ec366ace00c6c9c4"
+        "md5": "d2244346b1816d19ca5778011ddcf2ef"
     },
     {
         "path": "sitemap.xsl",
