@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "62fdf658133284986330f1458250173e"
+        "md5": "6d274c53e378b67e56d1056f0db2af7f"
     },
     {
         "path": "assets",
@@ -82,27 +82,27 @@
     {
         "path": "/authors/mi-hu/index.html",
         "type": "file",
-        "md5": "dda656f95908af0c1dd55259b45b375d"
+        "md5": "c29a37a741d75cc5608ce66ea0da8447"
     },
     {
         "path": "bo-ke-1.html",
         "type": "file",
-        "md5": "61f593cf1b413832733086ea1d6eb65e"
+        "md5": "decfe6a380d8f60ed38a060717907b57"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d907dc94416547beac6ea3d1f54cf1e8"
+        "md5": "9c7c0c85e01e606f8f8630e758defba5"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "37ccfb645c528bdaa920eafb67fe2e8e"
+        "md5": "b86eb5c55bccd6c179dab3c89e683610"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "cde2a8e115b5576b1c81723346831f06"
+        "md5": "d01a339fe8a3ec3fddb66c720d2de95c"
     },
     {
         "path": "media",
@@ -162,12 +162,12 @@
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "8ed325ba36bf16c1bcdde888b691235a"
+        "md5": "848b791f13b6210f62c6cc27c282d6d8"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d2244346b1816d19ca5778011ddcf2ef"
+        "md5": "3b2429df36cd7c5b94551f33f9fc5f03"
     },
     {
         "path": "sitemap.xsl",
@@ -182,6 +182,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "bfa2efbccfd1f816911def81dfd942f7"
+        "md5": "77ec1645d175c8b7d60c03011ce8f344"
     }
 ]
