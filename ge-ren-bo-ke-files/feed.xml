@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>个人博客</title>
+    <link href="https://GaoZHY270017.github.io/Blog/feed.xml" rel="self" />
+    <link href="https://GaoZHY270017.github.io/Blog" />
+    <updated>2026-04-19T17:36:20+08:00</updated>
+    <author>
+        <name>迷糊</name>
+    </author>
+    <id>https://GaoZHY270017.github.io/Blog</id>
+
+    <entry>
+        <title>博客学习</title>
+        <author>
+            <name>迷糊</name>
+        </author>
+        <link href="https://GaoZHY270017.github.io/Blog/bo-ke-1.html"/>
+        <id>https://GaoZHY270017.github.io/Blog/bo-ke-1.html</id>
+
+        <updated>2026-04-19T09:43:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    黄梅戏演员 李文 2026年4月19日发博
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>黄梅戏演员</p>
+<p>   </p>
+<p> </p>
+<figure class="post__image align-left">                                       <img loading="lazy"  src="https://GaoZHY270017.github.io/Blog/media/posts/1/Li-Wen.jpg" alt="" width="300" height="436" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-xs.jpg 640w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-sm.jpg 768w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-md.jpg 1024w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-lg.jpg 1366w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-xl.jpg 1600w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-2xl.jpg 1920w"></figure>
+<p>                                                                李文</p>
+<p>                                                                                                 </p>
+<p> </p>
+<p>                                                                                                   2026年4月19日发博</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
