@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>个人博客</title>
+    <title>Blog</title>
     <link href="https://GaoZHY270017.github.io/Blog/feed.xml" rel="self" />
     <link href="https://GaoZHY270017.github.io/Blog" />
-    <updated>2026-04-19T14:30:22+08:00</updated>
+    <updated>2026-04-19T17:58:58+08:00</updated>
     <author>
-        <name>迷糊</name>
+        <name>Fly2U</name>
     </author>
     <id>https://GaoZHY270017.github.io/Blog</id>
 
     <entry>
-        <title>博客学习</title>
+        <title>Fly2U&#x27; Blog  </title>
         <author>
-            <name>迷糊</name>
+            <name>Fly2U</name>
         </author>
-        <link href="https://GaoZHY270017.github.io/Blog/bo-ke-1.html"/>
-        <id>https://GaoZHY270017.github.io/Blog/bo-ke-1.html</id>
+        <link href="https://GaoZHY270017.github.io/Blog/fly2u-blog.html"/>
+        <id>https://GaoZHY270017.github.io/Blog/fly2u-blog.html</id>
 
-        <updated>2026-04-19T09:43:43+08:00</updated>
+        <updated>2026-04-19T17:58:58+08:00</updated>
             <summary>
                 <![CDATA[
-                    黄梅戏演员 李文照片 2026年4月19日
+                    Huangmei opera artist Li Wen Fly2U
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>黄梅戏演员</p>
-<p>李文照片       </p>
+                <p>Huangmei opera artist</p>
 <p> </p>
-<figure class="post__image align-left">                                       <img loading="lazy"  src="https://GaoZHY270017.github.io/Blog/media/posts/1/Li-Wen.jpg" alt="" width="300" height="436" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-xs.jpg 640w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-sm.jpg 768w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-md.jpg 1024w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-lg.jpg 1366w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-xl.jpg 1600w ,https://GaoZHY270017.github.io/Blog/media/posts/1/responsive/Li-Wen-2xl.jpg 1920w"></figure>
+<figure class="post__image">                                      <img loading="lazy"  src="https://GaoZHY270017.github.io/Blog/media/posts/2/Li-Wen.jpg" alt="" width="300" height="436" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-xs.jpg 640w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-sm.jpg 768w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-md.jpg 1024w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-lg.jpg 1366w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-xl.jpg 1600w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-2xl.jpg 1920w"></figure>
+<p>                                                               Li Wen</p>
+<p>                                                                             Fly2U</p>
 <p> </p>
-<p>                                                                                                  2026年4月19日</p>
+<p>                                                                                           </p>
             ]]>
         </content>
     </entry>
