@@ -87,17 +87,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "519b50c12d93a5953d3cb492dd13b5c4"
+        "md5": "de2dbde81f8b6749e760ce6951c6ed87"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "754c83e3c99421e26b7c47b2f4b4157a"
+        "md5": "37bc4d677c05149f4683f6361957de8a"
     },
     {
         "path": "fly2u-blog.html",
         "type": "file",
-        "md5": "4a28af016487ef370990e6e1963b9eb7"
+        "md5": "beae72c483cb6d1cbc035079adcb73f1"
     },
     {
         "path": "index.html",
@@ -212,7 +212,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a72000aa8915fdcd8fe53fe10b7b5b32"
+        "md5": "f7b66af84cb71b10c12151b4a555f240"
     },
     {
         "path": "sitemap.xsl",
