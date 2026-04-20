@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://GaoZHY270017.github.io/Blog/feed.xml" rel="self" />
     <link href="https://GaoZHY270017.github.io/Blog" />
-    <updated>2026-04-21T05:56:18+08:00</updated>
+    <updated>2026-04-21T06:33:40+08:00</updated>
     <author>
         <name>Fly2U</name>
     </author>
@@ -41,17 +41,14 @@
         <updated>2026-04-19T17:58:58+08:00</updated>
             <summary>
                 <![CDATA[
-                    Huangmei opera's artist
+                    Huangmei opera's artist music
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Huangmei opera's artist</p>
 <figure class="post__image">                                      <img loading="lazy"  src="https://GaoZHY270017.github.io/Blog/media/posts/2/Li-Wen.jpg" alt="" width="300" height="436" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-xs.jpg 640w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-sm.jpg 768w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-md.jpg 1024w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-lg.jpg 1366w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-xl.jpg 1600w ,https://GaoZHY270017.github.io/Blog/media/posts/2/responsive/Li-Wen-2xl.jpg 1920w"></figure>                                                                                                   Li Wen </p>
-<p> </p>
-<p>                                                                          </p>
-<p> </p>
-<p>                                                                                           </p>
+<p><audio loading="lazy" src="file:///D:/music/1.mp3" controls="controls"></audio>music</p>
             ]]>
         </content>
     </entry>
